@@ -45,3 +45,5 @@ def probandoTemplate(request):   #Sexta Vista
     documento = plantilla.render(dicc)
 
     return HttpResponse(documento)
+
+    a
